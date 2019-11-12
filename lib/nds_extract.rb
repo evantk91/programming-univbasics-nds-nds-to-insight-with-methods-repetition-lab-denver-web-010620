@@ -27,7 +27,11 @@ end
 
 def list_of_directors(source)
   # Write this implementation
+  index = 0
+  directors = []
   while index < source.length
+    director = source[index]
+  end
   
 end
 
