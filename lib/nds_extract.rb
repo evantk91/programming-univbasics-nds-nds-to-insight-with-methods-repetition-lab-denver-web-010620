@@ -31,6 +31,7 @@ def list_of_directors(source)
   directors = []
   while index < source.length
     director = source[index]
+    index += 1
   end
   
 end
